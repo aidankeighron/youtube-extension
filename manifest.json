@@ -1,0 +1,9 @@
+{
+    "name": "YouTube Playlist Tracker",
+    "description": "Track your position in a YouTube playlist",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "index.html"
+    }
+  }
