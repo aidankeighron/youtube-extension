@@ -1,3 +1,26 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
 .videos {
-    
+    margin-top: 15px;
+}
+
+.videos div {
+    background-color: lightblue;
+    padding: 5px;
+    margin-top: 10px;
+    width: 250px;
+    align-items: center;
+    display: flex;
+    border-radius: 5px;
+}
+
+.videos p {
+    font-size: 12px;
+    margin: 0px;
+}
+
+.videos img {
+    border-radius: 5px;
 }
